@@ -1,5 +1,5 @@
 # kde-setup
-My kde setup
+if i ever want to replicate my current kde setup
 
 Disable nvidia graphics card (intel hd 4000 is better lmao)
 
